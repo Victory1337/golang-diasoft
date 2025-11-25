@@ -13,6 +13,6 @@ func reverseHello(text string) string {
 
 // Запуск программы
 func main() {
-	// Вовод в консоль результат
+	// Вывод в консоль результат
 	fmt.Println(reverseHello("Hello, DIASOFT!"))
 }
