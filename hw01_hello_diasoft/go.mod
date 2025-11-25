@@ -1,4 +1,4 @@
-module github.com/fixme_my_friend/hw01_hello_diasoft
+module github.com/flawlessvictory1337/golang-diasoft/hw01_hello_diasoft
 
 go 1.18
 
